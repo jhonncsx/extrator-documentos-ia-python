@@ -1,0 +1,14 @@
+# Ambiente virtual e cache Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Variáveis de ambiente sensíveis
+.env
+
+# Arquivos gerados na execução e documentos privados
+relatorio_extraido.xlsx
+relatorio_extraido.csv
+documentos/*.pdf
